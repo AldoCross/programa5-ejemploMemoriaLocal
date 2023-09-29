@@ -1,0 +1,7 @@
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa5-ejemplo memoria Local\programa5-ejemplo memoria Local\bin\Debug\programa5-ejemplo memoria Local.exe.config
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa5-ejemplo memoria Local\programa5-ejemplo memoria Local\bin\Debug\programa5-ejemplo memoria Local.exe
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa5-ejemplo memoria Local\programa5-ejemplo memoria Local\bin\Debug\programa5-ejemplo memoria Local.pdb
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa5-ejemplo memoria Local\programa5-ejemplo memoria Local\obj\Debug\programa5-ejemplo memoria Local.csprojAssemblyReference.cache
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa5-ejemplo memoria Local\programa5-ejemplo memoria Local\obj\Debug\programa5-ejemplo memoria Local.csproj.CoreCompileInputs.cache
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa5-ejemplo memoria Local\programa5-ejemplo memoria Local\obj\Debug\programa5-ejemplo memoria Local.exe
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa5-ejemplo memoria Local\programa5-ejemplo memoria Local\obj\Debug\programa5-ejemplo memoria Local.pdb
